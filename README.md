@@ -24,7 +24,9 @@ The user can filter the table with the following parameters
 
 
 ## Interface
-The result is the following web page
+The result is the following web page:
+
+
 ![Input](images/options.png)
 
 ![table](images/table.png)
